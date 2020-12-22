@@ -2,7 +2,7 @@
 
 ## FAQ
 Is there something that hasn't been answered in the FAQ? Feel free to ask at [Whereee??](www.fecalfunny.com)
-If you want to help in making this FAQ clearer and broader, you can help us on Github! Please read this document
+If you want to help in making this FAQ clearer and broader, you can help us on Github! Please read this document.
 
 ### Welcome
 -  [Glossary](/wiki/faq/glossary)
