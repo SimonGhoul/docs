@@ -12,6 +12,8 @@ If you want to help in making this FAQ clearer and broader, you can help us on G
 ### Uploading
 -  [Can I publish nsfw content?](/wiki/faq/can-i-publish-nsfw-content)
 -  [How can I embed a Dtube video on my own website?](wiki/faq/how-can-i-embed-a-dtube-video-on-my-own-website)
+- Is there a way to more easily and quickly reupload all my videos to dtube? (It's not really reuploading, it's embedding, this can be explained inside that page. Reuploading is used for simplicity sake)
+- Will my embedded videos stay up if they are deleted from the source? (The answer is no, should had used another upload method)
 ### DTube Community
 -  [How can I give feedback?](/wiki/faq/giving-feedback)
 -  [How do videos get ranked?](/wiki/faq/how-do-videos-get-ranked)
@@ -30,8 +32,16 @@ If you want to help in making this FAQ clearer and broader, you can help us on G
 -  [Can I change my account name?](/wiki/faq/can-i-change-my-account-name)
 -  [How can I create lesser authority keys?](/wiki/faq/how-can-i-create-lesser-authority-keys)
 ### Common issues and problems
+- This feature from the site is broken?? (Report the issue and wait for it to get fixed)
+- I can't upload more videos! (Get more bandwidth or something among those lines, provide instructions)
 
-## Vision for DTube
+space
+space
+space
+space
+I am going to teach myself how to leave spaces later
+
+# Vision for DTube
 
 **DTube aims to reinvent how information and revenue is shared in the video industry.** We want a platform that promotes freedom of speech, by saying a hard *No!* to various mechanisms of censorship. We want all creators to be treated equally and fairly so they can make content accessible for everyone around the world.
 
